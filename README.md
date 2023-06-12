@@ -18,4 +18,3 @@
         <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
     </p>
 </b></body>
-</html>
