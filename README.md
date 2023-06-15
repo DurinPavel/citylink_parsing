@@ -17,5 +17,6 @@
         <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/citilink.ru_.png" alt="Screenshot of the citylink page" width=80%>
         <hr>
         <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
+        <hr>
     </p>
 </b></body>
