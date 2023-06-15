@@ -12,6 +12,7 @@
         As an example, the data obtained within the framework of the project is taken. If desired, you can get any data of interest to the user 
         that does not violate the law.
     </p>
+    <hr>
     <p align="center">
         <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/citilink.ru_.png" alt="Screenshot of the citylink page" width=80%>
         <hr>
