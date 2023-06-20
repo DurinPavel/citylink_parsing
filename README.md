@@ -1,8 +1,8 @@
 <body><b>
     <p align="justify">          
         The purpose of this project is to obtain data by parsing from the website of the Citilink online store and upload 
-        them to the Pandas dataframe. When parsing, methods based on the interaction of the Pandas, Selenium webdriver, Json, 
-        Time, Math libraries were used.
+        them to the Pandas dataframe. When parsing, methods based on the interaction of the <i>Pandas, Selenium webdriver, Json, 
+        Time, Math</i> libraries were used.
     </p>
     <p align="justify">
         Subsequently, the data obtained can be used in various Data Science methods. If desired, the code can be easily configured to upload data 
