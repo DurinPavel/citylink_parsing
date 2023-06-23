@@ -1,5 +1,5 @@
 <body><b>
-  <a href="https://github.com/DurinPavel/citylink_parsing/edit/main/README_EN.md" target="_blank">
+  <a href="https://github.com/DurinPavel/citylink_parsing/blob/main/README_EN.md" target="_blank">
     <p>English version</p></a>
     <p align="justify">
       Целью данного проекта является получение данных путем парсинга с сайта интернет-магазина Ситилинк
