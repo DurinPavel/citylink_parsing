@@ -1,4 +1,6 @@
 <body><b>
+    <a href="https://github.com/DurinPavel/citylink_parsing/edit/main/README.md" target="_blank">
+            <p>Russian version</p></a>
     <p align="justify">          
         The purpose of this project is to obtain data by parsing from the website of the Citilink online store and upload 
         them to the Pandas dataframe. When parsing, methods based on the interaction of the <i>Pandas, Selenium webdriver, Json, 
